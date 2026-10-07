@@ -1,0 +1,15 @@
+{
+  "IRED-001": {
+    "code": "IRED-001",
+    "type": "วิ่งลู่ + เก็บไข่",
+    "hours": 24,
+    "players": "5/7",
+    "ping": 40,
+    "speed": "9.02T",
+    "coins": "$663.2Qa",
+    "scriptOn": true,
+    "status": "FARMING ACTIVE",
+    "endAt": 1791458167083,
+    "updatedAt": 1791393367083
+  }
+}
